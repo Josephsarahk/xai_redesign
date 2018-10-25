@@ -1,0 +1,120 @@
+Cluster 0:
+388 T-shirt/top
+714 Trouser
+370 Pullover
+1102 Dress
+1793 Coat
+413 Sandal
+3385 Shirt
+1 Sneaker
+57 Bag
+5 Ankle boot
+Number misclassified: 4834/8228
+Cluster 1:
+20 T-shirt/top
+0 Trouser
+1 Pullover
+3 Dress
+0 Coat
+275 Sandal
+13 Shirt
+0 Sneaker
+1861 Bag
+0 Ankle boot
+Number misclassified: 353/2173
+Cluster 2:
+147 T-shirt/top
+1443 Trouser
+0 Pullover
+3634 Dress
+2 Coat
+97 Sandal
+10 Shirt
+0 Sneaker
+26 Bag
+7 Ankle boot
+Number misclassified: 1692/5366
+Cluster 3:
+0 T-shirt/top
+1 Trouser
+0 Pullover
+0 Dress
+0 Coat
+859 Sandal
+0 Shirt
+144 Sneaker
+0 Bag
+5086 Ankle boot
+Number misclassified: 1196/6090
+Cluster 4:
+0 T-shirt/top
+1 Trouser
+0 Pullover
+0 Dress
+1 Coat
+2698 Sandal
+0 Shirt
+3797 Sneaker
+6 Bag
+38 Ankle boot
+Number misclassified: 2466/6541
+Cluster 5:
+2 T-shirt/top
+8 Trouser
+9 Pullover
+0 Dress
+0 Coat
+5417 Sandal
+4 Shirt
+8 Sneaker
+7 Bag
+2 Ankle boot
+Number misclassified: 297/5457
+Cluster 6:
+1 T-shirt/top
+1 Trouser
+36 Pullover
+0 Dress
+127 Coat
+235 Sandal
+44 Shirt
+4 Sneaker
+2936 Bag
+3 Ankle boot
+Number misclassified: 484/3387
+Cluster 7:
+5178 T-shirt/top
+37 Trouser
+1 Pullover
+424 Dress
+0 Coat
+3 Sandal
+289 Shirt
+0 Sneaker
+11 Bag
+0 Ankle boot
+Number misclassified: 1616/5943
+Cluster 8:
+1 T-shirt/top
+17 Trouser
+2145 Pullover
+0 Dress
+5314 Coat
+26 Sandal
+3959 Shirt
+0 Sneaker
+62 Bag
+1 Ankle boot
+Number misclassified: 5928/11525
+Cluster 9:
+0 T-shirt/top
+5283 Trouser
+0 Pullover
+1 Dress
+4 Coat
+2 Sandal
+0 Shirt
+0 Sneaker
+0 Bag
+0 Ankle boot
+Number misclassified: 15/5290
